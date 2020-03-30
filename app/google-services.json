@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "648022678778",
+    "firebase_url": "https://prateek-ee831.firebaseio.com",
+    "project_id": "prateek-ee831",
+    "storage_bucket": "prateek-ee831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648022678778:android:39b1ac73e8b93d9b7f3d43",
+        "android_client_info": {
+          "package_name": "com.example.prateek_sharma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648022678778-clrkbttcm1l4fmti2pasp0l5k25njip3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prateek_sharma",
+            "certificate_hash": "97d3255c436b0966e58471dc0b8b9d24cb61ef98"
+          }
+        },
+        {
+          "client_id": "648022678778-6j67341idl0njaq0jjklqtptgb68onhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByB0Ik7IwmWAfs-0ixaGKu2I2Nl_UnNBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648022678778-6j67341idl0njaq0jjklqtptgb68onhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
